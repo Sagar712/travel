@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "./static/css/main.7129b9c8.css",
+    "main.js": "./static/js/main.f02dd254.js",
+    "static/media/profile.png": "./static/media/profile.fdb5a0d9dc8fbfe99d9c.png",
+    "static/media/om_beach.jpeg": "./static/media/om_beach.771572543903c8c8a103.jpeg",
+    "static/media/sunset.jpeg": "./static/media/sunset.e005cca18c3eec492ba4.jpeg",
+    "static/media/beach_butterfly.jpeg": "./static/media/beach_butterfly.82545aa837941ed020eb.jpeg",
+    "static/media/supari.jpeg": "./static/media/supari.1765298c0239f7012225.jpeg",
+    "static/media/arai.jpeg": "./static/media/arai.0e5c18b7a402fa1cbf69.jpeg",
+    "static/media/sunset2.jpeg": "./static/media/sunset2.e326c4cd0c204bada5ba.jpeg",
+    "static/media/sagar_palelom.jpeg": "./static/media/sagar_palelom.11db111d7480f9b3bc47.jpeg",
+    "static/media/phoness.jpg": "./static/media/phoness.0886df0cd345128ab31c.jpg",
+    "static/media/instagram-brands-solid.svg": "./static/media/instagram-brands-solid.79a700d9059ba59c94e4448a2bc9b0ee.svg",
+    "static/media/linkedin-brands-solid.svg": "./static/media/linkedin-brands-solid.305b0ecdbcc2a7d42401907e50aeb943.svg",
+    "index.html": "./index.html",
+    "static/media/bars-solid.svg": "./static/media/bars-solid.516fd46ce36996deb97468320682f8a0.svg",
+    "static/media/x-solid.svg": "./static/media/x-solid.de4d3f07393b382b84ef486ace1b2391.svg",
+    "main.7129b9c8.css.map": "./static/css/main.7129b9c8.css.map",
+    "main.f02dd254.js.map": "./static/js/main.f02dd254.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7129b9c8.css",
+    "static/js/main.f02dd254.js"
+  ]
+}
